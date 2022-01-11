@@ -1,0 +1,13 @@
+.cell {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 0 1px rgb(64, 124, 177);
+    border: 2px solid #6f91b8;
+    border-radius: 4px;
+    cursor: pointer;
+    color: rgb(66, 66, 66);
+    line-height: 100px;
+    font-size: 60px;
+    text-align: center;
+}

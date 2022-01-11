@@ -1,0 +1,6 @@
+.game--container {
+  display: flex;
+  width: 306px;
+  padding: 5px;
+  margin: 50px auto;
+  }
